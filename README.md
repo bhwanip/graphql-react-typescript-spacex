@@ -1,3 +1,5 @@
+Steps link: https://blog.logrocket.com/build-a-graphql-react-app-with-typescript/
+
 ### [Skilled.dev - Coding Interview Course](https://skilled.dev)
 Master the programming interview [Learn More →](https://skilled.dev)
 
