@@ -1,3 +1,5 @@
+Modular Schemas: https://www.apollographql.com/blog/modularizing-your-graphql-schema-code-d7f71d5ed5f2/
+
 React Apollo Hooks: https://github.com/trojanowski/react-apollo-hooks
 
 Steps link: https://blog.logrocket.com/build-a-graphql-react-app-with-typescript/
