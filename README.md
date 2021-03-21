@@ -4,6 +4,8 @@ React Apollo Hooks: https://github.com/trojanowski/react-apollo-hooks
 
 Steps link: https://blog.logrocket.com/build-a-graphql-react-app-with-typescript/
 
+Pagination Connections: https://andrewingram.net/posts/demystifying-graphql-connections/
+
 ### [Skilled.dev - Coding Interview Course](https://skilled.dev)
 Master the programming interview [Learn More →](https://skilled.dev)
 
