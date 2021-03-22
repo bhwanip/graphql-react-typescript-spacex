@@ -10,6 +10,8 @@ Graphql Waterfall: https://andrewingram.net/posts/optimising-your-graphql-reques
 
 Graphql Batch Resolve: https://github.com/calebmer/graphql-resolve-batch
 
+Apollo Client ServerSide/React/Static page rendering: https://www.apollographql.com/blog/getting-started-with-apollo-client-in-next-js/
+
 ### [Skilled.dev - Coding Interview Course](https://skilled.dev)
 Master the programming interview [Learn More →](https://skilled.dev)
 
