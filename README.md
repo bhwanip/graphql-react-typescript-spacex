@@ -6,6 +6,8 @@ Steps link: https://blog.logrocket.com/build-a-graphql-react-app-with-typescript
 
 Pagination Connections: https://andrewingram.net/posts/demystifying-graphql-connections/
 
+Graphql Batch Resolve: https://github.com/calebmer/graphql-resolve-batch
+
 ### [Skilled.dev - Coding Interview Course](https://skilled.dev)
 Master the programming interview [Learn More →](https://skilled.dev)
 
